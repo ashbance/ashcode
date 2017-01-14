@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ashcode.iml" filepath="$PROJECT_DIR$/.idea/modules/ashcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ashcode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ashcode_main.iml" group="ashcode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ashcode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ashcode_test.iml" group="ashcode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews.iml" group="cracking_code_interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_main.iml" group="cracking_code_interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_test.iml" group="cracking_code_interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan.iml" group="shaan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" group="shaan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" group="shaan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" group="udemy_TDD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" group="udemy_TDD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" group="udemy_TDD" />
+    </modules>
+  </component>
+</project>
