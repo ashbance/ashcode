@@ -12,8 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" group="shaan" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" group="shaan" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" group="udemy_TDD" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" group="udemy_TDD" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" group="udemy_TDD" />
     </modules>
   </component>
 </project>
