@@ -31,39 +31,41 @@ public class RomanNumeralsValidator {
         for (Character c : chars) {
             sb.append(c);
 
-            if (exceeds4SameChars(sb)) {
-                failed = true;
-            }
-
-            if (violatesBigToSmall(sb)) {
-
-            }
+//            if (exceeds4SameChars(sb)) {
+//                failed = true;
+//            }
+//
+//            if (violatesBigToSmall(sb)) {
+//
+//            }
 
 
 
 
 
         }
+
+        return false;
     }
 
 
     private static boolean exceeds4SameChars(String current, Character c) {
         String next = c.toString();
 
-        if (s.length() > 4) {
-            String sub = s.substring(s.length()-4, s.length());
+        if (current.length() > 4) {
+            String sub = current.substring(current.length()-4, current.length());
 
 
 
         }
+
+        return false;
     }
 
     private static boolean violatesBigToSmall(String current, Character c) {
-        String lastChar = s.length()
+        //String lastChar = current.length();
 
-        if ()
-
-
+        return false;
     }
 
 
