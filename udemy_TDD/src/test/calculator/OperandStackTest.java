@@ -1,6 +1,5 @@
 package calculator;
 
-import calculator.OperandStack;
 import org.junit.Before;
 import org.junit.Test;
 
