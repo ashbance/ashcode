@@ -3,6 +3,9 @@ package testdoubles.example;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Fake user store
+ */
 public class FakeUserStore implements UserStore{
 	private ArrayList<User> users = new ArrayList<User>();
 	
