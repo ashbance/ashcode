@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * Created by ashokbance on 14/01/2017.
+ * To define some operations for adding,deleting etc ...
  */
 public class AddOperation extends BinaryOperation {
 
