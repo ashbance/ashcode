@@ -23,8 +23,6 @@ public class OperationsTest {
         calculator.setAccumulator(new BigDecimal(22));
     }
 
-
-
     @Test
     public void testAddExecution() {
         calculator.execute("+");

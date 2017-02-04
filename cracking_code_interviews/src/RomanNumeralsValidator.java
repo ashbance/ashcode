@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -15,6 +16,7 @@ public class RomanNumeralsValidator {
         put('V', 5);
         put('I', 1);
     }};
+
 
     public static void main(String[] args) {
         validate("MCMLXXXI");
@@ -38,9 +40,6 @@ public class RomanNumeralsValidator {
 //            if (violatesBigToSmall(sb)) {
 //
 //            }
-
-
-
 
 
         }
@@ -69,6 +68,38 @@ public class RomanNumeralsValidator {
     }
 
 
+    public boolean checkRuleOfThree(String roman1) {
+        char[] chars = roman1.toCharArray();
+        char current = '\0';
+        int idx = 0;
 
+        for (char c: chars) {
 
+            if (current != c) {
+                current = c;
+                idx = 0;
+            }
+
+            idx++;
+
+            if (idx > 3) {
+                return false;
+            }
+
+        }
+
+        return true;
+    }
+
+    public int getSymbolValue(char c) {
+
+        Integer result = numerals.get(c);
+
+        if (result == null) {
+            return -1;
+        }
+
+        return result;
+
+    }
 }
