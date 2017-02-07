@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/cracking_code_interviews" />
+            <option value="$PROJECT_DIR$/fucntionalInterfaces" />
+            <option value="$PROJECT_DIR$/fxprogram" />
+            <option value="$PROJECT_DIR$/multithreading" />
             <option value="$PROJECT_DIR$/shaan" />
             <option value="$PROJECT_DIR$/udemy_TDD" />
           </set>

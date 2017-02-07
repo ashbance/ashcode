@@ -23,10 +23,16 @@
       <module name="ashcode_test" target="1.5" />
       <module name="cracking_code_interviews_main" target="1.8" />
       <module name="cracking_code_interviews_test" target="1.8" />
+      <module name="fucntionalInterfaces_main" target="1.5" />
+      <module name="fucntionalInterfaces_test" target="1.5" />
+      <module name="fxprogram_main" target="1.5" />
+      <module name="fxprogram_test" target="1.5" />
+      <module name="multithreading_main" target="1.5" />
+      <module name="multithreading_test" target="1.5" />
       <module name="shaan_main" target="1.5" />
       <module name="shaan_test" target="1.5" />
-      <module name="udemy_TDD_main" target="1.5" />
-      <module name="udemy_TDD_test" target="1.5" />
+      <module name="udemy_TDD_main" target="1.8" />
+      <module name="udemy_TDD_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

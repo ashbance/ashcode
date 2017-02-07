@@ -8,10 +8,21 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews.iml" group="cracking_code_interviews" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_main.iml" group="cracking_code_interviews" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cracking_code_interviews/cracking_code_interviews_test.iml" group="cracking_code_interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces.iml" group="fucntionalInterfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces_main.iml" group="fucntionalInterfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fucntionalInterfaces/fucntionalInterfaces_test.iml" group="fucntionalInterfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram.iml" filepath="$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram.iml" group="fxprogram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram_main.iml" group="fxprogram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fxprogram/fxprogram_test.iml" group="fxprogram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/.idea/modules/multithreading/multithreading.iml" group="multithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithreading/multithreading_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multithreading/multithreading_main.iml" group="multithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithreading/multithreading_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multithreading/multithreading_test.iml" group="multithreading" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan.iml" group="shaan" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_main.iml" group="shaan" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shaan/shaan_test.iml" group="shaan" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD.iml" group="udemy_TDD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_main.iml" group="udemy_TDD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy_TDD/udemy_TDD_test.iml" group="udemy_TDD" />
     </modules>
   </component>
 </project>
